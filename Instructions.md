@@ -4,7 +4,7 @@
   - DeviceManagementConfiguration.ReadWrite.All 
   - DeviceManagementManagedDevices.ReadWrite.All 
   - DeviceManagementServiceConfig.ReadWrite.All
-- Create a secret in the application and store the value
+- Create a secret in the application and store the value. If using a secret that's already been made, check that it's not expired.
 # Instructions
 ## Get Required Modules
 On a working, internet-connected computer:
